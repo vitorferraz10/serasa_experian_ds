@@ -1,6 +1,6 @@
 {
   "name": "ds-serasa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A example of a design system with tokens to use in style components",
   "main": "index.js",
   "keywords": [],
