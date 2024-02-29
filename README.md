@@ -4,7 +4,7 @@ Design system serasa is a comprehensive collection of design tokens to ensure co
 
 ## Installation
 
-Use the package ds-serasa [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) to install ds-serasa.
+Use the package [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) to install ds-serasa.
 
 ```bash
 npm i ds-serasa
