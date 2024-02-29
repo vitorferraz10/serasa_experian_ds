@@ -25,7 +25,7 @@ export const Title = styled.h1`
   color: ${({theme}) => theme.colors.text.brand.default};
   font-size: ${({theme}) => theme.font.size.desktop.body_m};
   font-family: ${({theme}) => theme.font.family.body};
-`
+```
 
 ## Contributing
 
